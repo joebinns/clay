@@ -1,7 +1,7 @@
 # Clay
 A procedural **clay** shader made in **Unity 3D**'s ShaderGraph.
 
-<img alt="Clay demonstration gif" width="1006" src="https://joebinns.com/documents/gifs/purveyor_of_stars.gif" />
+<img alt="Clay demonstration gif" src="https://joebinns.com/documents/gifs/purveyor_of_stars.gif" />
 
 I created this procedural clay shader as an exercise in Unity 3D's ShaderGraph.  
 Shaders are run every frame, and since this is an unbaked shader, it generates and then discards various noise textures each frame.  
