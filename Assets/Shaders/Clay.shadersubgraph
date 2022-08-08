@@ -279,6 +279,9 @@
         },
         {
             "m_Id": "21b2427d6d804270b3b19f89cd46c95d"
+        },
+        {
+            "m_Id": "f93cba87d9a647339b4cfc7ec3f9d99e"
         }
     ],
     "m_Edges": [
@@ -7443,6 +7446,26 @@
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "f93cba87d9a647339b4cfc7ec3f9d99e",
+    "m_Title": "Warning",
+    "m_Content": "Impurities and Folds do not look very good at the moment, but are a proof of concept. Additionally, Impurities is very poorly optimised.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1452.0,
+        "y": 1266.0,
+        "width": 200.0,
+        "height": 120.0
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 

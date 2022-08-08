@@ -614,7 +614,7 @@
     "m_Group": {
         "m_Id": ""
     },
-    "m_Name": "PerlinNoise (Custom Function)",
+    "m_Name": "TileablePerlinNoise (Custom Function)",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
@@ -650,7 +650,7 @@
         "m_SerializableColors": []
     },
     "m_SourceType": 0,
-    "m_FunctionName": "PerlinNoise",
+    "m_FunctionName": "TileablePerlinNoise",
     "m_FunctionSource": "db71375c4b328244d855d808a5ef946a",
     "m_FunctionBody": "Enter function body here..."
 }
