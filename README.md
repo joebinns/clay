@@ -37,5 +37,3 @@ Is [my own](https://joebinns.com/).
 
 ## License (MIT License)
 See [this page](https://github.com/joebinns/clay/blob/main/LICENSE) for more information.
-
-[^1]: **Disclaimer:** This project is fanmade! The quality of the project does not reflect the quality of Toyful Games or their products.
