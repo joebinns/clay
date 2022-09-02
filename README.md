@@ -3,12 +3,6 @@ A procedural **clay** shader made in **Unity 3D**'s ShaderGraph.
 
 <img alt="Clay demonstration gif" src="https://joebinns.com/documents/gifs/purveyor_of_stars.gif" />
 
-I created this procedural clay shader as an exercise in Unity 3D's ShaderGraph.  
-Shaders are run every frame, and since this is an unbaked shader, it generates and then discards various noise textures each frame.  
-**I would therefore strongly advise against using this shader in it's current state in commercial usage**.  
-Instead, one could re-create the shader in Blender and bake it into materials and animations.  
-You would then benefit from peak performance, with results that you can be just as happy with!
-
 ## How does it work?
 - **Textured fingerprints** leave dents in the normal and add smoothness to mock natural oils from skin.
 - **Voronoi noise** is used to **flatten** normals, creating a handcrafted look.
@@ -18,6 +12,13 @@ You would then benefit from peak performance, with results that you can be just 
 
 ## Installation
 Open the project in Unity. Open the Purveyor of Stars scene located at [*clay/Assets/Scenes/*](https://github.com/joebinns/clay/tree/main/Assets/Scenes).
+
+## Warning
+I created this procedural clay shader as an exercise in Unity 3D's ShaderGraph.  
+Shaders are run every frame, and since this is an unbaked shader, it generates and then discards various noise textures each frame.  
+**I would therefore strongly advise against using this shader in it's current state in commercial usage**.  
+Instead, one could re-create the shader in Blender and bake it into materials and animations.  
+You would then benefit from peak performance, with results that you can be just as happy with!
 
 ## Contributing
 1. Fork the repository.
