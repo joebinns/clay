@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Material Test.unity
+    guid: 632f50e64977c484f8708b9af5585a32
+  - enabled: 1
+    path: Assets/Scenes/Purveyor of Stars.unity
+    guid: 52af5e6883a0fb9459930adbc79361ae
   m_configObjects: {}
